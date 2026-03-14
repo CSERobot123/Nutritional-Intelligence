@@ -1,0 +1,5 @@
+{
+  "name": "Fuel & Focus",
+  "description": "A nutritional intelligence dashboard that correlates food intake with cognitive performance, energy, and mood.",
+  "requestFramePermissions": ["microphone"]
+}
